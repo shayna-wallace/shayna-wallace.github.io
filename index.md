@@ -4,7 +4,7 @@ My name is Shayna and I'm a Computer Science major at SNHU graduating in May 202
 
 During my Computer Science Capstone, I was given the opportunity to enhance three artifacts from previous courses. The artifacts I chose was a set of JUnit tests for mobile applications, a SQLInjection Program, and a sequence and class diagram of a college system software. Below is the link of my code review of these three artifacts.
 
-Clink link to see my code review video on YouTube. [Shayna's Code Review](https://youtu.be/U7dwPkSu3gM)
+Clink link to see my code review video on YouTube. [Shayna's Code Review](https://youtu.be/U7dwPkSu3gM/)
 
 You can use the [editor on GitHub](https://github.com/shayna-wallace/shayna-wallace.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
