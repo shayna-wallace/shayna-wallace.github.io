@@ -1,5 +1,7 @@
 ## Welcome to Shayna Wallace GitHub Page
 
+### Please see link to access my GitHub for the code for the original arifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)
+
 ## Table of Contents
 
 * Self-Assessment
