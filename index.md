@@ -24,7 +24,7 @@ For the algorithm and data structure category, I improved my SQLInjection progra
 All of my artifacts fit together in showcasing my ability to review my code, plan enhancements, follow through with those enhancements, improve and expand the project/code, and create databases. It shows my ability to review my work and ability to identify areas of improvement. I'm able to show my skills and growth. This helps my ePortfolio have a range of artifacts that fit into crucial categories within the Computer Science field. I can show and discuss where the artifacts started and are now. It's imperative to show growth as Computer Science is an ever-learning field. 
 
 
-My name is Shayna and I'm a Computer Science major at SNHU graduating in May 2022.
+## Code Review
 
 During my Computer Science Capstone, I was given the opportunity to enhance three artifacts from previous courses. The artifacts I chose was a set of JUnit tests for mobile applications, a SQLInjection Program, and a sequence and class diagram of a college system software. Below is the link of my code review of these three artifacts.
 
