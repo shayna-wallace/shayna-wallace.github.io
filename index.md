@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Shayna Wallace GitHub Page
+
+## Table of Contents
+
+* Self-Assessment
+* Code Review Video
+* Enhanced Artifacts and Narratives (Mobile Applications, SQLInjection Program, and College Databases)
 
 My name is Shayna and I'm a Computer Science major at SNHU graduating in May 2022.
 
