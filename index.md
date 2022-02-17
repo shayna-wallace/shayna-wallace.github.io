@@ -1,6 +1,6 @@
 ## Welcome to Shayna Wallace GitHub Page
 
-### Please see link to access my GitHub for the code for the original arifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)
+### *Please see link to access my GitHub for the code for the original arifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
 
 ## Table of Contents
 
@@ -32,38 +32,46 @@ During my Computer Science Capstone, I was given the opportunity to enhance thre
 
 Clink link to see my code review video on YouTube. [Shayna's Code Review](https://youtu.be/U7dwPkSu3gM/)
 
-You can use the [editor on GitHub](https://github.com/shayna-wallace/shayna-wallace.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Enhanced Artifacts and Narratives
 
-### Markdown
+* ### Mobile Applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The artifact I enhanced for category one (software design and engineering) is a set of Java projects that included JUnit tests for three different mobile applications. There are three Java projects, Appointment, Contact, and Task. These 3 Java projects are also what the mobile application is. An appointment application, a contact application, and a task application. I created the Java projects/classes, and in each project/class, coded the requirements needed for that mobile application. Once the requirements have been made, I need to test them to ensure they function correctly. To accomplish that, I then created JUnit tests to test the requirements. This artifact was created for a Software Test, Automation,  & QA course that I took in 2021(21EW4).
 
-```markdown
-Syntax highlighted code block
+One of the main reasons I selected this item was because I enjoyed that course, and it piqued my interest in possibly having a career as a software tester. Since I will be interested in that profession, I wanted to enhance my skills and improve the project as it would be helpful and vital in my growth and journey to be a software tester. The components of the artifact that showcase my skills and abilities are my JUnit test. You are able to see that I'm capable of creating tests that test the mobile application's requirements. You can also see that I can create and code the application's requirements correctly with no errors. I was able to develop software requirements for the mobile application. I then took those requirements and combined them with my skills in JUnit test creation, all while using the code coverage tool provided in Eclipse. 
 
-# Header 1
-## Header 2
-### Header 3
+JUnit testing is a skill used by those in the Software QA Tester industry. Those in the Software QA Testing industry must test software, debug code, and improve the usability of the software program. JUnit tests consist of writing and running tests to ensure the software requirements are met. This helps you to detect errors and bugs in the code early. My skills and abilities with this artifact showcase my software design skills in providing computer solutions in the form of JUnit testing and code coverage that helps the software industry deliver products that meet industry goals and standards by having software that meets clients' requirements with no bugs and errors.
 
-- Bulleted
-- List
+The artifact was improved by adding comments for lines of code that explain their purpose and the added descriptions for each Java project that explains the purpose of the application and tests. I also added a updateAppointment to the AppointmentService so customers could update appointments instead of either deleting existing appointments or adding a new appointment. I also added a updateAppointment test to ensure a customer can indeed update an appointment. Finally, I added more specific test cases that tested the requirements and gave accurate results. 
 
-1. Numbered
-2. List
+Overall, I was able to meet my planned enhancements. However, I did have trouble improving the code coverage for the Appointment Java project. The enhancing of the artifact was an eye-opener. I was able to see my strengths as well as weaknesses. I now know what areas I need to improve, which is good to know since it will help my growth and help me become a better software tester. What I learned the most was the importance of creating correct code that works as intended. It's vital to create code that looks great and works and functions as intended. If the code is not correctly written, it can still run with no errors, but the correct results or task will not be produced, rendering the software unusable. The main challenge I faced was code coverage. I wanted to improve the coverage for the Appointment Java, but I was unsuccessful. Despite the challenge, I fully intend to keep working on it until I can improve it.
 
-**Bold** and _Italic_ and `Code` text
+* ### SQLInjection Program
 
-[Link](url) and ![Image](src)
-```
+The artifact is a SQL Injection program. The program is intended to catch SQL Injections in progress, prevent them by blocking them, and then display a message that there was a suspected SQL Injection. This artifact was in a secure coding course I took in 21EW1. The reason why I selected this artifact was that it focused on security and creating secure code. It's crucial in today's society to develop and have secure code to help protect sensitive information and prevent vulnerabilities. This artifact's component that showcases my skills and abilities is my correct use of the escape all user input method. I was able to implement the technique correctly and prevented an SQL Injection. This shows my security mindset skills in anticipating future vulnerabilities and then creating prevention methods. A hacker can use malicious code to exploit the software; therefore, we must implement secure code when designing the software. Therefore, we must always design with security in mind from the beginning. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+My skills show that instead of waiting for a vulnerability to happen and then fixing it, I incorporated secure code throughout my program. I accomplished this by using a SQL prevention method called "Escape All User Supplied Input." The escape all user supplied input works by escaping the users' input before it is put into the query. This helps block and prevent SQL Injections from happening, preventing attackers from stealing confidential data and stopping data breaches. My skills and abilities with the artifact showcase my software design, security mindset with enhanced security, and my problem-solving skills using data structures and algorithms to ensure the software does not get exploited. 
 
-### Jekyll Themes
+The artifact was improved by adding comments for lines of code that explained their purpose, the added description of the use for the program, and explained what the escape all user input method is. Finally, I added more escape all user method code to the program to cover other data areas, like ID and PASSWORD. Before, I only had created code for the NAME portion of the data. I was able to meet most of my planned enhancements. However, I did have trouble implementing other SQL Injection prevention methods, like the use of prepared statements and use of stored procedures.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shayna-wallace/shayna-wallace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The process of enhancing this artifact showed me the importance of secure coding and that this is an area I need to continually work in to build my skills and knowledge in creating secure code. It's essential to know all possible SQL Injection prevention methods and to be able to implement them all successfully. The main challenge I faced enhancing this artifact was implementing a different SQL Injection prevention method. 
 
-### Support or Contact
+* ### College Databases
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The artifacts are a sequence diagram of a college system and a class diagram of the components; and classes of a college system, along with its attributes. The sequence diagram is how staff or students would use the college software system to register for classes, and the class diagram shows the components that are needed for the college system so that it is functional and meets requirements. This artifact was created in an Object-Oriented Analysis Design class I took in 21EW4. I took this artifact paired it with the knowledge and skills that I learned from my Intro to Structured Database Environment class that I took in 20EW4. 
+
+I selected this artifact because it was one of my favorite classes that I took. I enjoyed seeing the thought and process that went into building a "blueprint" for software. I also selected this artifact because it had no code at all. This allowed me to create code for the artifact and then build and create a database. The components of the artifacts that showcase my skills and abilities are that I was able to create SQL code that produced a database from scratch. I was able to use the correct SQL code to create a database, and then I was able to create and enter data into a table within the database. I was able to maintain the database by using CRUD operations. CRUD stands for Create, Read, Update, and Delete. This allows you to create databases and tables, retrieve data, modify any data/tables, and then delete any data when needed. I was able to use my skills in database creation and the tools in MySQL Workbench to create and develop a solution and working environment for those in the Database Administration industry. Those in the Database Administration industry use their skills and knowledge to store and organize data in a software. They do database design and perform monitoring, as well as other tasks. My skills and abilities with this artifact showcase my database design and management.
+
+The artifacts were improved because I took the diagrams, studied them, and then laid them as the foundation for my future databases and data. I then took that information from the diagrams and created two databases. Next, I took the class diagram and their classes and the attributes and created tables that matched the class diagram. After creating my databases and tables, I then filled those tables with data and did queries. I took artifacts with no code and no system, then created code for it and finally a workable and manageable database for a college system. 
+
+Yes, I was able to meet the course objectives I planned to meet with the enhancements. In addition, I was able to accomplish each goal within this enhancement. When I created this artifact, I learned the importance of taking your time and thoroughly checking your work. When creating a database, tables, and adding data, it's imperative that you enter each code/data correctly. Spelling is a significant factor in database creation and maintenance because if you misspell anything and don't notice it, there's a chance when you conduct a query search that, you will not be able to find the data you are looking for. I faced the overall challenge of carefully entering data and ensuring everything was spelled correctly before running my code.
+
+
+
+
+
+
+### *Please see link to access my GitHub for the code for the original arifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
+
+ 
