@@ -35,6 +35,18 @@ Clink link to see my code review video on YouTube. [Shayna's Code Review](https:
 
 # Enhanced Artifacts and Narratives
 
+A. Briefly describe the artifact. What is it? When was it created?
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and 
+abilities in software development? How was the artifact improved?
+
+C. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage 
+plans?
+
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did 
+you face?
+
+
 * ### Mobile Applications
 
 The artifact I enhanced for category one (software design and engineering) is a set of Java projects that included JUnit tests for three different mobile applications. There are three Java projects, Appointment, Contact, and Task. These 3 Java projects are also what the mobile application is. An appointment application, a contact application, and a task application. I created the Java projects/classes, and in each project/class, coded the requirements needed for that mobile application. Once the requirements have been made, I need to test them to ensure they function correctly. To accomplish that, I then created JUnit tests to test the requirements. This artifact was created for a Software Test, Automation,  & QA course that I took in 2021(21EW4).
