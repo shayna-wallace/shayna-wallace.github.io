@@ -28,9 +28,9 @@ All of my artifacts fit together in showcasing my ability to review my code, pla
 
 ## Code Review
 
-During my Computer Science Capstone, I was given the opportunity to enhance three artifacts from previous courses. The artifacts I chose was a set of JUnit tests for mobile applications, a SQLInjection Program, and a sequence and class diagram of a college system software. Below is the link of my code review of these three artifacts.
+During my Computer Science Capstone, I was given the opportunity to enhance three artifacts from previous courses. The artifacts I chose were a set of JUnit tests for mobile applications, an SQLInjection Program, and a sequence and class diagram of a college system software. Below is the link to my code review of these three artifacts.
 
-Clink link to see my code review video on YouTube. [Shayna's Code Review](https://youtu.be/U7dwPkSu3gM/)
+Click the link to see my code review video on YouTube. [Shayna's Code Review](https://youtu.be/U7dwPkSu3gM/)
 
 
 # Enhanced Artifacts and Narratives
