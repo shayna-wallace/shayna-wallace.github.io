@@ -1,6 +1,6 @@
 ## Welcome to Shayna Wallace ePortfolio 
 
-### *Please see the link to access my GitHub for the original artifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
+### *Please click the link to access my GitHub for the original artifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
 
 ## Table of Contents
 
@@ -84,7 +84,7 @@ Yes, I was able to meet the course objectives I planned to meet with the enhance
 
 
 
-### *Please see the link to access my GitHub for the original artifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
+### *Please click the link to access my GitHub for the original artifacts before enhancements, the enhanced artifacts, and the written narratives. [Shayna's Github](https://github.com/shayna-wallace/shayna-wallace.github.io.git)*
 
 ### Shayna Wallace - Shayna.Wallace@snhu.edu
 
